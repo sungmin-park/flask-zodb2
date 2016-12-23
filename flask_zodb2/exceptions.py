@@ -1,0 +1,2 @@
+class FlaskAppNotFound(RuntimeError):
+    pass
